@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="atm-spring-code-config" />
+        <module name="atm-spring-annotation" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="atm-spring-code-config" target="8" />
+      <module name="atm-spring-annotation" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
